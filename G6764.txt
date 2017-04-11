@@ -1,0 +1,2 @@
+This is the text file with my unique identifier for COGS 108 Assignment
+#1.
